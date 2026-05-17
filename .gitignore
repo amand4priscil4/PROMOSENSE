@@ -14,3 +14,6 @@ data/raw/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Modelos treinados
+modelo/*.zip
